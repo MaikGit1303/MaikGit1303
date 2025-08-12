@@ -14,7 +14,7 @@ Soy un Desarrollador de Software Junior apasionado por la creación de solucione
 
 - 🌱 Actualmente estoy profundizando mis conocimientos en **[Menciona una o dos tecnologías que estés aprendiendo, ej: frameworks de JavaScript o Python]**.
 - 💡 Buscando mi primera oportunidad profesional como desarrollador.
-- 📫 Puedes contactarme a través de mi email: **[TU_EMAIL@gmail.com]**
+- 📫 Puedes contactarme a través de mi email: **maikol71andrehy@gmail.com**
 
 ---
 
