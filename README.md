@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <a href="URL_DE_TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://www.linkedin.com/in/maikol-andrehy-romero-amado-2922a1335/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="URL_DE_TU_PORTAFOLIO_SI_TIENES"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/></a>
 </p>
 
@@ -12,7 +12,7 @@
 
 Soy un Desarrollador de Software Junior apasionado por la creación de soluciones tecnológicas. Con una sólida base en el desarrollo tanto de Frontend como de Backend, me enfoco en la construcción de aplicaciones eficientes y escalables. Me encanta aprender nuevas tecnologías y aplicar mis conocimientos para resolver problemas del mundo real.
 
-- 🌱 Actualmente estoy profundizando mis conocimientos en **[Menciona una o dos tecnologías que estés aprendiendo, ej: frameworks de JavaScript o Python]**.
+- 🌱 Actualmente estoy profundizando mis conocimientos en **[frameworks || Python, JavaScript, HTML + CSS - Frontend || C#, MySQL - Backend.]**.
 - 💡 Buscando mi primera oportunidad profesional como desarrollador.
 - 📫 Puedes contactarme a través de mi email: **maikol71andrehy@gmail.com**
 
